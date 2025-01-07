@@ -1,2 +1,2 @@
 
-please do not just copy-paste the code, first do it yourself self then debug using gdb multiple times then verify if you missed anything 
+## Please do not simply copy and paste the code. Begin by writing it yourself to ensure a thorough understanding of the logic. Then, debug the program multiple times using GDB to identify and resolve any issues. Finally, review your work carefully to verify that nothing has been overlooked.
